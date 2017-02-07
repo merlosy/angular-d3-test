@@ -6,7 +6,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ```
-git clone http://194.3.27.74/formations/angular2.git
+git clone https://github.com/merlosy/angular-d3-test.git
 ```
 =======
 ## Code scaffolding
